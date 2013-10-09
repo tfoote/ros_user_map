@@ -11,6 +11,10 @@
       { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-122.173585, 37.429963]},
       "properties": {"Organization": "Stanford"}
+      },
+      { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-122.136988, 37.400533]},
+      "properties": {"Organization": "Bosch"}
       }
       
      ]
