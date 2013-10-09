@@ -2,7 +2,12 @@
   "features": [
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-122.079784, 37.400465]},
-      "properties": {"prop0": "value0"}
+      "properties": {"Organization": "Open Source Robotics Foundation"}
+      },
+      { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-122.166340, 37.452437]},
+      "properties": {"Organization": "Willow Garage"}
       }
+      
      ]
    }
