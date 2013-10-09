@@ -1,4 +1,4 @@
-var geojsonFeature = {
+{
     "type": "Feature",
     "properties": {
         "name": "Coors Field",
@@ -11,8 +11,8 @@ var geojsonFeature = {
     }
 };
 
-var geojsonFeature1 = {
-    "type": "Feature2",
+{
+    "type": "Feature",
     "properties": {
         "name": "Coors Field2",
         "amenity": "Baseball Stadium",
