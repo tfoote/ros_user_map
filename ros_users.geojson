@@ -7,6 +7,10 @@
       { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-122.166340, 37.452437]},
       "properties": {"Organization": "Willow Garage"}
+      },
+      { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-122.173585, 37.429963]},
+      "properties": {"Organization": "Stanford"}
       }
       
      ]
