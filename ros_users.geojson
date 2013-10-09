@@ -1,21 +1,70 @@
-{ "type": "FeatureCollection",
+{
+  "type": "FeatureCollection",
   "features": [
-    { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [-122.079784, 37.400465]},
-      "properties": {"Organization": "Open Source Robotics Foundation"}
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.079784,
+          37.400465
+        ]
       },
-      { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [-122.166340, 37.452437]},
-      "properties": {"Organization": "Willow Garage"}
-      },
-      { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [-122.173585, 37.429963]},
-      "properties": {"Organization": "Stanford"}
-      },
-      { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [-122.136988, 37.400533]},
-      "properties": {"Organization": "Bosch"}
+      "properties": {
+        "Organization": "Open Source Robotics Foundation"
       }
-      
-     ]
-   }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.16634,
+          37.452437
+        ]
+      },
+      "properties": {
+        "Organization": "Willow Garage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.173585,
+          37.429963
+        ]
+      },
+      "properties": {
+        "Organization": "Stanford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.136988,
+          37.400533
+        ]
+      },
+      "properties": {
+        "Organization": "Bosch"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "UC Berkeley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2584530711174,
+          37.87474965009875
+        ]
+      }
+    }
+  ]
+}
