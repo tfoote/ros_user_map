@@ -65,6 +65,58 @@
           37.87474965009875
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Massachusetts Institute of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09027624130249,
+          42.36163576091584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "University of Pennsylvania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19106805324554,
+          39.95228454612053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Carnegie Mellon University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94299829006194,
+          40.44166427862449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "ETH Zurich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.546977043151855,
+          47.377422305488984
+        ]
+      }
     }
   ]
 }
